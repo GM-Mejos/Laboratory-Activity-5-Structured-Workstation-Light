@@ -50,9 +50,5 @@ The firmware separates input acquisition, state evaluation, and output applicati
 
 ---
 
-## Build & Upload Instructions (PlatformIO)
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/GM-Mejos/Laboratory-Activity-5-Structured-Workstation-Light.git](https://github.com/GM-Mejos/Laboratory-Activity-5-Structured-Workstation-Light.git)
->>>>>>> effe9185cdaeaa71aca283fea64f265de9b76cd8
+## Laboratory Demonstration
+https://drive.google.com/drive/folders/1wrWAnmnJ7MWS8m70YYQ9kyIzV3OJyWDB?usp=sharing
