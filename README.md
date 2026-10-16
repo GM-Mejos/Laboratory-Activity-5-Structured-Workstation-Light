@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# Laboratory-Activity-3-GPIO-and-Button-Control
 =======
 # Laboratory Activity 5: Structured Workstation Light
 
